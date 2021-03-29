@@ -10,5 +10,5 @@
 		<center><h2>•∆• duck</h2></center>
 	<body style="background-color:#FFC0CB;">
 	</body>
-		¬˚Ω˚¬ zømbie butler
+		¬˚Ω˚¬ zømbie butler 
 		</html>
