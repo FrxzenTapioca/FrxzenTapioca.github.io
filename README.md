@@ -1,3 +1,3 @@
 # FrxzenTapioca.github.io
-Background color:
+Background color :
 <body style="background-color:#FFC0CB;">
